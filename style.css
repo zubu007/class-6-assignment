@@ -1,0 +1,40 @@
+* {
+    margin: 0%;
+    padding: 0%:
+}
+
+
+
+.header {
+    min-height: 100px;
+}
+
+.info{
+    float: left;
+}
+
+.info .no, .mail {
+    float: left;
+}
+
+.wrapper {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.nav {
+    float: right;
+}
+
+.nav ul li {
+    float: left;
+}
+
+.logo {
+    padding: 0;
+    width: 20%;
+}
+
+.logo_icon {
+    float: right;
+}
