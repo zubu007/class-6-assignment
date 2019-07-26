@@ -5,15 +5,15 @@
 
 
 
-.header {
+.Topbar_Wrapper {
     min-height: 100px;
 }
 
-.info{
+.contact{
     float: left;
 }
 
-.info .no, .mail {
+.mail {
     float: left;
 }
 
