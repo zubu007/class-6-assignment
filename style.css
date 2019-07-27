@@ -3,38 +3,99 @@
     padding: 0%;
 }
 
-
-
-.Topbar_Wrapper {
-    min-height: 100px;
-}
-
-.contact{
-    float: left;
-}
-
-.mail {
-    float: left;
-}
+/* topbar */
 
 .wrapper {
     width: 80%;
     margin: 0 auto;
 }
 
-.nav {
+
+
+.Topbar_Wrapper {
+    min-height: 100px;
+
+}
+
+.Mobile{
+    float: left;
+    margin: 5px 10px;
+}
+
+.mail {
+    float: left;
+    margin: 5px 10px;
+}
+
+
+
+.top_menu {
     float: right;
 }
 
-.nav ul li {
+ul {
+    text-decoration: none;
+}
+
+.top_menu li {
+    float: left;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Header */
+
+.logo{
+    width: 15%;
     float: left;
 }
 
-.logo {
-    padding: 0;
-    width: 20%;
+.logo_text {
+    font-size: 57px;
+}
+
+.logo_p {
+    font-size: 20px;
 }
 
 .logo_icon {
+    float: left;
+    
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+
+.nav{
+    width: 70%;
+    margin: 0 auto;
+}
+.nav ul li{
+    float: left;
+    margin: 10px 20px;
+}
+.nav ul {
+    width: 45%;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+.cart_price{
+    width: 15%;
+    float: right;
+}
+.total_price {
+    float: right;
+}
+
+.cart_icon {
     float: right;
 }
